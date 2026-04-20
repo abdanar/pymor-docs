@@ -1,17 +1,13 @@
-.. pyMOR Documentation Fork documentation master file, created by
-   sphinx-quickstart on Tue Apr 21 01:05:22 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+pyMOR Documentation (Sandbox)
+=============================
 
-pyMOR Documentation Fork documentation
-======================================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Welcome to the NumPy-style documentation system for pyMOR.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   user_guide/index
+   api/index
+   tutorials/index
+   development/index
+   release_notes/index
