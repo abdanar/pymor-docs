@@ -38,7 +38,7 @@ html_show_sourcelink = False
 
 html_theme_options = {
     "logo": {
-        "image_light": "_static/logo..svg",
+        "image_light": "_static/logo.svg",
         "image_dark": "_static/logo_dark.svg",
     },
 
