@@ -25,6 +25,8 @@ extensions = [
 
 autosummary_generate = True
 numpydoc_show_class_members = False
+numpydoc_show_inherited_class_members = False
+numpydoc_class_members_toctree = False
 
 templates_path = ['_templates']
 exclude_patterns = []
